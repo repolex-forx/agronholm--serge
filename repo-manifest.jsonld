@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/agronholm/serge/commit/12e2d63319d5e204eb0f757ae664dde58ce2023c",
       "git:hexsha": "12e2d63319d5e204eb0f757ae664dde58ce2023c",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T19:36:17.306341+00:00"
     },
     {
       "@id": "https://repolex.ai/r/agronholm/serge/commit/ede4d0a7f0e92b7090edb17e8f2f1798ceea8e7e",
